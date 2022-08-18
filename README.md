@@ -1,5 +1,5 @@
 # StrutJazzBass
-Strut Jazz Bass circuit
+Strut Jazz Bass Circuit
 
 This circuit achieves the following with 3 pickups and 4 potentiometers.
 
@@ -10,13 +10,39 @@ This circuit achieves the following with 3 pickups and 4 potentiometers.
 
 This electric base used in the prototype was manufactured by ELK incorporated in 1973 in Japan.
 
-回路図リンク
+## Circuit Diagram
 
-写真
+[![Strut Jazz Bass Circuit](circuit_diagramS.png)](StrutJazzBassCircuit.pdf)
 
-写真
+## Prototype Picture
 
-写真
+### Front View
 
-写真
+[![Front View](frontS.jpg)](frontQ.jpg)
+
+### Back View
+
+[![Back View](backS.jpg)](backQ.jpg)
+
+### Head
+
+[![Head View](headS.jpg)](headQ.jpg)
+
+### Body
+
+[![Body View](bodyS.jpg)](bodyQ.jpg)
+
+### Electric_Circuit
+
+[![Electric_Circuit](electric_circuitS.jpg)](electric_circuitQ.jpg)
+
+### Work
+
+[![Work View](workS.jpg)](workQ.jpg)
+
+## Special THanks
+
+This work was submitted to a [modified guitar contest held by TC Gakki](https://tcgakki.com/pages/modified-guitar-contest-2022).
+
+https://tcgakki.com/pages/modified-guitar-contest-2022
 
